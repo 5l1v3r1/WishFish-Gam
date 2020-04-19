@@ -21,10 +21,11 @@ $ git clone https://github.com/AdminOnlineHacking/WishFish-Gam
 
 $ cd wishfish
 
-Now turn your device hotspot
 
 $ bash wishfish.sh
 
+
+<h2>Now turn your device hotspot</h3>
 
 
 
