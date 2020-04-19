@@ -13,8 +13,8 @@ echo -e "\033[31m   \ \/  \/ / | / __| '_  |\e[0m|  __| | / __| '_ \      ";
 echo -e "\033[31m    \  /\  /  | \__ \ | | |\e[0m| |    | \__ \ | | |     ";
 echo -e "\033[31m     \/  \/   |_|___/_| |_|\e[0m|_|    |_|___/_| |_| v2.0";
 
-printf "\e[1;77m Website :- www.hackersking.in \e[0m \n"
-printf "\e[1;77m v2.0 Coded By github.com/kinghacker0 \e[0m \n"
+printf "\e[1;77m Telegram:- @OnlineHacking (SUMAN)  \e[0m \n"
+printf "\e[1;77m v2.0 Coded By github.com/AdminOnlineHacking \e[0m \n"
 
 }
 
