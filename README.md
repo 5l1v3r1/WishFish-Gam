@@ -14,6 +14,16 @@ Powerful Tool For Grab Front Camera Snap Using A Lin
 <p>Using WishFish tool you can generat different phishing links of wishing or custom sites which can grab victim front camera pictures and also gives you lockup information of target ip address.
 
 <p1>
+  
+  
+  ![20200316_174935_0000]()
+
+<p align="center">
+
+<a href="https://github.com/AdminOnlineHacking/WishFish-Gam"><img title="GitHub version" src="https://img.shields.io/badge/version-2.0-blue" ></a>  
+
+</p>
+  
 
 <h3>Installation</h3>
 
