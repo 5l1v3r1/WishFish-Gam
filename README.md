@@ -21,9 +21,11 @@ $ git clone https://github.com/AdminOnlineHacking/WishFish-Gam
 
 $ cd wishfish
 
-Now turn your device hotspot
+<h2>Now turn your device hotspot<h2>
 
 $ bash wishfish.sh
+
+
 
 <p>Sometimes servero server is down so always go with ngrok for instant link and wait until it generates url for then send it to victim.
 
