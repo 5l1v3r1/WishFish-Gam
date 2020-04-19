@@ -27,20 +27,20 @@ Powerful Tool For Grab Front Camera Snap Using A Lin
 
 <h3>Installation</h3>
 
-$ apt install php
+* apt install php
 
-$ apt install wget
+* apt install wget
 
-$ apt install openssh
+* apt install openssh
 
-$ git clone https://github.com/AdminOnlineHacking/WishFish-Gam
+* git clone https://github.com/AdminOnlineHacking/WishFish-Gam
 
 <h3>Usage</h3>
 
-$ cd WishFish-Gam
+* cd WishFish-Gam
 
 
-$ bash wishfish.sh
+* bash wishfish.sh
 
 
 <h2>Now turn your device hotspot</h3>
