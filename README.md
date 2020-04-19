@@ -51,6 +51,7 @@ Powerful Tool For Grab Front Camera Snap Using A Lin
 * mv {[cam19Apr2020023205.png](images nane)} /sdcard
 
 
+WishFish-Gam Tool Live use video link:- https://t.me/OnlineHacking/451
 
 
 <p>Sometimes servero server is down so always go with ngrok for instant link and wait until it generates url for then send it to victim.
