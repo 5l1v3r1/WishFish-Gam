@@ -46,6 +46,11 @@ Powerful Tool For Grab Front Camera Snap Using A Lin
 <h2>Now turn your device hotspot</h3>
 
 
+<h3>View Images</h3>
+
+* mv {[cam19Apr2020023205.png](images nane)} /sdcard
+
+
 
 
 <p>Sometimes servero server is down so always go with ngrok for instant link and wait until it generates url for then send it to victim.
