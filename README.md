@@ -37,7 +37,7 @@ $ git clone https://github.com/AdminOnlineHacking/WishFish-Gam
 
 <h3>Usage</h3>
 
-$ cd Wishfish-Gam
+$ cd WishFish-Gam
 
 
 $ bash wishfish.sh
