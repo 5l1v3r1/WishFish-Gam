@@ -21,7 +21,7 @@ $ git clone https://github.com/AdminOnlineHacking/WishFish-Gam
 
 $ cd wishfish
 
-<h2>Now turn your device hotspot<h2>
+Now turn your device hotspot
 
 $ bash wishfish.sh
 
@@ -38,4 +38,8 @@ $ bash wishfish.sh
 
 This information is only for educationla purpose and we are not responsible for any kind of illegal activity done by this tool.
 
-                                              Inspired By github.com/thelinuxchoice
+Joining Telegram 
+Channel:- https://t.me/OnlineHacking
+Group:- https://t.me/OnlineHacking0
+
+                                              Inspired By github.com/AdminOnlineHacking
